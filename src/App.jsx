@@ -4,7 +4,7 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import HomePage from './pages/HomePage'
 import { Navigate, Route, Routes } from "react-router-dom";
-import Jeans from './pages/jeans'
+import Jeans from './pages/Jeans'
 import Tshirt from './pages/Tshirt'
 import Shoes from './pages/Shoes'
 import Glasses from './pages/Glasses'
