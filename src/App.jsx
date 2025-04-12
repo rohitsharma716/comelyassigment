@@ -1,8 +1,8 @@
 
 import './App.css'
-import Navbar from './Navbar'
+import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import HomePage from './HomePage'
+import HomePage from './pages/HomePage'
 import { Navigate, Route, Routes } from "react-router-dom";
 import Jeans from './pages/jeans'
 import Tshirt from './pages/Tshirt'

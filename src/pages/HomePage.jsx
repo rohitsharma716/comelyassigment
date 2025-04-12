@@ -1,6 +1,6 @@
 import React from 'react';
-import CategoryItem from './components/CategoriesItem';
-import Slider from './Slider';
+import CategoryItem from '../components/CategoriesItem';
+import Slider from '../components/Slider';
 
 const categories = [
   { href: "/jeans", name: "Jeans", imageUrl: "/jeans.jpg" },
